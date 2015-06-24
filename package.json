@@ -1,0 +1,31 @@
+{
+  "name": "mini-birds-mongoose",
+  "version": "1.0.0",
+  "description": "W6D3 mini project explore mongo using Mongoose as an ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahoeRobbo/mini-birds-mongoose.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongoose",
+    "node",
+    "server"
+  ],
+  "author": "tahoeRobbo // instruction by Dallin Crane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahoeRobbo/mini-birds-mongoose/issues"
+  },
+  "homepage": "https://github.com/tahoeRobbo/mini-birds-mongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.0"
+  }
+}
